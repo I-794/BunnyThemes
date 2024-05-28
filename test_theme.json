@@ -1,0 +1,137 @@
+{
+    "name": "Test Theme",
+    "description": "My first theme, a test theme with my first offical one coming out soon!",
+    "authors": [
+        {
+            "name": "i_795",
+            "id": "1126614446643609704"
+        }
+
+        
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FA3C01"
+        ],
+        "HEADER_SECONDARY": [
+            "#FA3C01"
+        ],
+        "TEXT_NORMAL": [
+            "#E54385"
+        ],
+        "TEXT_MUTED": [
+            "#D9D2E9"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FFB6C1"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#503E38"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#E54385"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#E54385"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#7BC043"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#4A73A2"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2CF870"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#199A4C"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#D0EC46"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1FEE1F"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1FEE1F"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1FEE1F"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1FEE1F"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#B31757"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#B31757"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#53D76A"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#53D76A"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "503E38"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#372E29"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#372E29"
+        ],
+        "TEXT_LINK": [
+            "#372E29"
+        ],
+        "TEXT_DANGER": [
+            "#503E38"
+        ],
+        "KEYBOARD": [
+            "#110D0A"
+        ],
+        "CHANNEL_ICON": [
+            "#8CE1DA"
+        ],
+        "CHAT_BACKGROUND": [
+            "#110D0A"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#F0D5B0",
+        "PRIMARY_100": "#6CC09A",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#F0D5B0",
+        "PRIMARY_360": "#F0D5B0",
+        "PRIMARY_400": "#F0D5B0",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#8328F7",
+        "BRAND_360": "#0FF980",
+        "BRAND_500": "#8328F7",
+        "BRAND_560": "#0FF980",
+        "YELLOW_300": "#8328F7",
+        "GREEN_600": "#4E1A35",
+        "RED_400": "#F0D5B0",
+        "WHITE_500": "#4E1A35",
+        "GREEN_360": "#503E38"
+    },
+    "spec": 2
+}
