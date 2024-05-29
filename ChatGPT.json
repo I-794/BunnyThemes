@@ -1,0 +1,167 @@
+{
+    "name": "Test Theme",
+    "description": "My first theme, a test theme with my first official one coming out soon!",
+    "authors": [
+        {
+            "name": "i_795",
+            "id": "1126614446643609704"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FA3C01",
+            "#FB4D12"
+        ],
+        "HEADER_SECONDARY": [
+            "#FA3C01",
+            "#FB4D12"
+        ],
+        "TEXT_NORMAL": [
+            "#E54385",
+            "#E65496"
+        ],
+        "TEXT_MUTED": [
+            "#D9D2E9",
+            "#EAE3FA"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FFB6C1",
+            "#FFC7D2"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#503E38",
+            "#614F49"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#E54385",
+            "#E65496"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#E54385",
+            "#E65496"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#5865F2",
+            "#6976F3"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#4A73A2",
+            "#5B84B3"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2CF870",
+            "#3DF981"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#199A4C",
+            "#2AAB5D"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#D0EC46",
+            "#E1FD57"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1FEE1F",
+            "#30FF30"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1FEE1F",
+            "#30FF30"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1FEE1F",
+            "#30FF30"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1FEE1F",
+            "#30FF30"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#B31757",
+            "#C42868"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#B31757",
+            "#C42868"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#53D76A",
+            "#64E87B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#53D76A",
+            "#64E87B"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#503E38",
+            "#614F49"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b",
+            "#37384c"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3",
+            "#EBD1C4"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3",
+            "#EBD1C4"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#372E29",
+            "#483F3A"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#372E29",
+            "#483F3A"
+        ],
+        "TEXT_LINK": [
+            "#372E29",
+            "#483F3A"
+        ],
+        "TEXT_DANGER": [
+            "#503E38",
+            "#614F49"
+        ],
+        "KEYBOARD": [
+            "#110D0A",
+            "#221E1B"
+        ],
+        "CHANNEL_ICON": [
+            "#8CE1DA",
+            "#9DF2EB"
+        ],
+        "CHAT_BACKGROUND": [
+            "#110D0A",
+            "#221E1B"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": ["#F0D5B0", "#F1E6C1"],
+        "PRIMARY_100": ["#6CC09A", "#7DD1AB"],
+        "PRIMARY_200": ["#F4EAE5", "#F5FBF6"],
+        "PRIMARY_300": ["#F0D5B0", "#F1E6C1"],
+        "PRIMARY_360": ["#F0D5B0", "#F1E6C1"],
+        "PRIMARY_400": ["#F0D5B0", "#F1E6C1"],
+        "PRIMARY_600": ["#100D0A", "#211E1B"],
+        "PRIMARY_630": ["#1B1411", "#2C2522"],
+        "PRIMARY_660": ["#1B1411", "#2C2522"],
+        "PRIMARY_700": ["#100D0A", "#211E1B"],
+        "PRIMARY_800": ["#100D0A", "#211E1B"],
+        "BRAND_260": ["#8328F7", "#9439F8"],
+        "BRAND_360": ["#0FF980", "#20FA91"],
+        "BRAND_500": ["#8328F7", "#9439F8"],
+        "BRAND_560": ["#0FF980", "#20FA91"],
+        "YELLOW_300": ["#8328F7", "#9439F8"],
+        "GREEN_600": ["#4E1A35", "#5F2B46"],
+        "RED_400": ["#F0D5B0", "#F1E6C1"],
+        "WHITE_500": ["#4E1A35", "#5F2B46"],
+        "GREEN_360": ["#503E38", "#614F49"]
+    },
+    "spec": 2
+}
