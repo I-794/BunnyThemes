@@ -1,0 +1,127 @@
+{
+    "name": "Pisscord",
+    "description": "A very yellow theme.",
+    "authors": [
+        {
+            "name": "i_795",
+            "id": "1126614446643609704"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#A47E1B"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFE169"
+        ],
+        "TEXT_NORMAL": [
+            "#A47E1B"
+        ],
+        "TEXT_MUTED": [
+            "#FFE169"
+        ],
+        "TEXT_LINK": [
+            "#ff7b00"
+        ],
+        "TEXT_DANGER": [
+            "#FFE169"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#A47E1B"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#A47E1B"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#ffaa00"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#ffaa00"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#723d46"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#723d46"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#710000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#723d46"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#181818"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#710000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#adc178"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#710000"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#710000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#adc178"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#adc178"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#181818"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#181818"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#adc178"
+        ],
+        "CHANNEL_ICON": [
+            "#adc178"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#A47E1B",
+        "PRIMARY_200": "#A47E1B",
+        "PRIMARY_300": "#A47E1B",
+        "PRIMARY_360": "#FFE169",
+        "PRIMARY_500": "#FFE169",
+        "PRIMARY_600": "#ffaa00",
+        "PRIMARY_630": "#ffaa00",
+        "PRIMARY_660": "#ffaa00",
+        "PRIMARY_700": "#ffaa00",
+        "PRIMARY_800": "#ffaa00",
+        "BRAND_260": "#FFE169",
+        "BRAND_360": "#FFE169",
+        "BRAND_500": "#FFE169",
+        "BRAND_560": "#A47E1B",
+        "WHITE_500": "#A47E1B",
+        "BLUE_345": "#FFE169",
+        "YELLOW_300": "#FFE169",
+        "ORANGE_345": "#FFE169",
+        "GREEN_345": "#FFE169",
+        "GREEN_360": "#FFE169",
+        "RED_560": "#FFE169",
+        "RED_400": "#FFE169"
+    },
+    "spec": 2,
+    "background": {
+        "blur": 0.6,
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/wallpaper.jpg",
+        "alpha": 0.5,
+        "color": "#181818"
+    }
+}
