@@ -120,8 +120,7 @@
     "spec": 2,
     "background": {
         "blur": 0.6,
-        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/wallpaper.jpg",
         "alpha": 0.5,
-        "color": "#181818"
+        "color": "#faedcd"
     }
 }
