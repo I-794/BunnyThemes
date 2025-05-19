@@ -9,118 +9,118 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#A47E1B"
+            "#827D2F"
         ],
         "HEADER_SECONDARY": [
-            "#FFE169"
+            "#255057"
         ],
         "TEXT_NORMAL": [
-            "#A47E1B"
+            "#3AB041"
         ],
         "TEXT_MUTED": [
-            "#2D1E2F"
+            "#B7E5E1"
         ],
         "TEXT_LINK": [
-            "#ff7b00"
+            "#DC7462"
         ],
         "TEXT_DANGER": [
-            "#2D1E2F"
+            "#2A8458"
         ],
         "INTERACTIVE_NORMAL": [
-            "#A47E1B"
+            "#F14D3C"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#A47E1B"
+            "#0BC3E3"
         ],
         "INTERACTIVE_MUTED": [
-            "#808080"
+            "#A97172"
         ],
         "BACKGROUND_PRIMARY": [
-            "#FCF6B1"
+            "#CA962C"
         ],
         "BACKGROUND_SECONDARY": [
-            "#FCF6B1"
+            "#2E57CB"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#723d46"
+            "#765E2F"
         ],
         "BACKGROUND_TERTIARY": [
-            "#723d46"
+            "#9E7117"
         ],
         "BACKGROUND_ACCENT": [
-            "#710000"
+            "#B777B2"
         ],
         "BACKGROUND_FLOATING": [
-            "#723d46"
+            "#76F87E"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#181818"
+            "#DACB35"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#710000"
+            "#30BBFF"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#adc178"
+            "#B10D0A"
         ],
         "BACKGROUND_MENTIONED": [
-            "#710000"
+            "#8E8BDF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#710000"
+            "#885E05"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#adc178"
+            "#834A6E"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#adc178"
+            "#86DB0B"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#181818"
+            "#521E55"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+            "#F19A5A"
         ],
         "CHAT_BACKGROUND": [
-            "#181818"
+            "#E9A2C3"
         ],
         "CHANNELS_DEFAULT": [
-            "#adc178"
+            "#82E6FA"
         ],
         "CHANNEL_ICON": [
-            "#adc178"
+            "#55BE89"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#A47E1B",
-        "PRIMARY_200": "#A47E1B",
-        "PRIMARY_300": "#A47E1B",
-        "PRIMARY_360": "#2D1E2F",
-        "PRIMARY_500": "#2D1E2F",
-        "PRIMARY_600": "#ffaa00",
-        "PRIMARY_630": "#ffaa00",
-        "PRIMARY_660": "#ffaa00",
-        "PRIMARY_700": "#ffaa00",
-        "PRIMARY_800": "#ffaa00",
-        "BRAND_260": "#2D1E2F",
-        "BRAND_360": "#2D1E2F",
-        "BRAND_500": "#2D1E2F",
-        "BRAND_560": "#A47E1B",
-        "WHITE_500": "#A47E1B",
-        "BLUE_345": "#2D1E2F",
-        "YELLOW_300": "#2D1E2F",
-        "ORANGE_345": "#2D1E2F",
-        "GREEN_345": "#2D1E2F",
-        "GREEN_360": "#2D1E2F",
-        "RED_560": "#2D1E2F",
-        "RED_400": "#2D1E2F"
+        "PRIMARY_100": "#456F58",
+        "PRIMARY_200": "#9AEAD4",
+        "PRIMARY_300": "#8DE097",
+        "PRIMARY_360": "#633B45",
+        "PRIMARY_500": "#AB64DB",
+        "PRIMARY_600": "#9EF913",
+        "PRIMARY_630": "#52F143",
+        "PRIMARY_660": "#8B85C5",
+        "PRIMARY_700": "#B66E10",
+        "PRIMARY_800": "#FC19CF",
+        "BRAND_260": "#F358C5",
+        "BRAND_360": "#2CCA6F",
+        "BRAND_500": "#A5CF9F",
+        "BRAND_560": "#48263A",
+        "WHITE_500": "#E3F8AE",
+        "BLUE_345": "#566D8D",
+        "YELLOW_300": "#DE9F10",
+        "ORANGE_345": "#9E8554",
+        "GREEN_345": "#978BF8",
+        "GREEN_360": "#C573C3",
+        "RED_560": "#827FA2",
+        "RED_400": "#673DB0"
     },
     "spec": 2,
     "background": {
         "blur": 0.6,
         "alpha": 0.5,
-        "color": "#faedcd"
+        "color": "#B22712"
     }
 }
