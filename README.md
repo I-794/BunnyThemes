@@ -1,23 +1,43 @@
-<h1 align="center">Hi 👋, I'm Charlie!</h1>
-<h3 align="center">A Beginner Dev who works with HTML and Javascript</h3>
+# Pisscord Themes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-794&label=Profile%20views&color=0e75b6&style=flat" alt="i-794" /> </p>
+This repository is a collection of themes for what is presumably a custom Discord client or mod, referred to as "Pisscord". It also includes a Python script to generate new, randomized color themes from the existing ones.
 
-- 🌱 I’m currently learning **C, C++, Typescript**
+## Included Themes
 
-- 📫 How to reach me **cplichterman@proton.me**
+This repository comes with a few pre-made themes:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whylifeis4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whylifeis4" height="30" width="40" /></a>
-<a href="https://instagram.com/whylifeis4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whylifeis4" height="30" width="40" /></a>
-</p>
+*   `Pisscord.json`
+*   `Pisscord Final.json`
+*   `pisscord v2.json`
+*   `pisscord3.json`
+*   `ChatGPT.json`
+*   `test_theme.json`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Create Your Own Randomized Theme
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-794&show_icons=true&theme=merko&locale=en&layout=compact" alt="i-794" /></p>
+You can use the included Python script to generate your own themes with randomized colors.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-794&show_icons=true&locale=en" alt="i-794" /></p>
+### Prerequisites
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3142lpejxvrlvih3mdgjsnuowy2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+*   Python 3.x
+
+### Usage
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/i-794/pisscord-themes.git
+    cd pisscord-themes
+    ```
+
+2.  **Choose a base theme:**
+    Select one of the existing `.json` theme files to use as a template.
+
+3.  **Run the script:**
+    Execute the `replace_colors.py` script and provide the path to the theme file you want to modify. The script will overwrite the specified file with randomized colors.
+
+    For example, to randomize the colors in `Pisscord.json`:
+    ```bash
+    python replace_colors.py Pisscord.json
+    ```
+
+    A new set of random colors will be applied to the theme file. You can then use this modified file in your client.
